@@ -34,3 +34,13 @@ A fully **custom-built form validation system** using only **HTML**, **CSS**, an
 - JavaScript 
 
 ---
+
+## 🧪 How It Works
+
+1. User fills in all fields
+2. Form validates inputs live (no page reload)
+3. On valid submit:
+   - A **popup alert/modal** appears saying: `"Form submitted successfully!"`
+   - All fields reset
+
+---
